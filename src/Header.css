@@ -1,0 +1,67 @@
+.MainHeader{
+    height: 50px;
+    width: 100%;
+    padding: 7px;
+    display: flex;
+}
+.Subheader{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    background-color: rgb(219, 215, 215);
+    padding: 2px;
+}
+.sub{
+    display: flex;
+    margin-left: 220px;
+    margin-top: 10px;
+    background-color: rgb(219, 215, 215);
+}
+.name{
+    margin-left: 10px;
+    background-color: rgb(219, 215, 215);
+}
+.Licon{
+    height: 35px;
+    width: 35px;
+    margin-left: 80px;
+}
+.txt{
+    width: 800px;
+    padding: 10px;
+    margin: 0;
+    border-radius: 0;
+    height: 100%;
+    border-right: 50px;
+    /* background-color: aqua; */
+}
+
+  
+  .search{
+      display: flex;
+      margin-left: 20px;
+      margin-right: 20px;
+  }
+.searchimgicon{
+    margin-top: 5px;
+    height: 25px;
+    width: 25px;
+    margin-right: 5px;
+}
+
+  .alignheader{
+      padding: 5px;
+      margin-left: 100px;
+      display: flex;
+  }
+  .alignicons{
+      margin-right: 50px;
+      background: transparent;
+  }
+  .upradebtn{
+      font-weight: bolder;
+      background-color: yellow;
+  }
+  .myimg{
+    margin-right: 50px;
+  }
